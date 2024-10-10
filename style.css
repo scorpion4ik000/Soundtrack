@@ -1,0 +1,9 @@
+body{
+    background: #000;
+}
+.container{
+    width: 1440px;
+    height: 3318px;
+    background: #fff;
+    margin: 0 auto;
+}
